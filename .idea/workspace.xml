@@ -1,24 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d41f6b0-7f00-4add-a574-edbbba61c5b3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaPractice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Area.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CarAbstract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CarClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CarInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Constructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MainCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vehicle.java" afterDir="false" />
+    <list default="true" id="7d41f6b0-7f00-4add-a574-edbbba61c5b3" name="Changes" comment="JavaPractice">
+      <change afterPath="$PROJECT_DIR$/src/BaapKaBeta/Baap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Beta2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestingWithSarwar/Betaa2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,8 +45,22 @@
   }
 }</component>
   <component name="RunManager" selected="Application.MainAbstract">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="Baap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaapKaBeta.Baap" />
+      <module name="JavaPractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Beta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaapKaBeta.Beta" />
+      <module name="JavaPractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Betaa2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Betaa2" />
       <module name="JavaPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,23 +73,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainCar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainCar" />
+    <configuration name="TestingWithSarwar.Betaa2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestingWithSarwar.Betaa2" />
       <module name="JavaPractice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainMethod" />
-      <module name="JavaPractice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SpeedFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SpeedFinder" />
-      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestingWithSarwar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -96,10 +89,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.MainAbstract" />
-        <item itemvalue="Application.MainCar" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.MainMethod" />
-        <item itemvalue="Application.SpeedFinder" />
+        <item itemvalue="Application.TestingWithSarwar.Betaa2" />
+        <item itemvalue="Application.Betaa2" />
+        <item itemvalue="Application.Beta" />
+        <item itemvalue="Application.Baap" />
       </list>
     </recent_temporary>
   </component>
@@ -112,6 +105,14 @@
       <option name="presentableId" value="Default" />
       <updated>1659245440186</updated>
     </task>
+    <task id="LOCAL-00001" summary="JavaPractice">
+      <created>1659508193290</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1659508193290</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -124,5 +125,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="JavaPractice" />
+    <option name="LAST_COMMIT_MESSAGE" value="JavaPractice" />
   </component>
 </project>
